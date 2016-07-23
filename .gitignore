@@ -15,3 +15,16 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+.idea/*
+
+.idea/vcs.xml
+
+.idea/dictionaries/relatednoise.xml
+.idea/.name
+.idea/.rakeTasks
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/swagger-ui_rails.iml
+.idea/workspace.xml
